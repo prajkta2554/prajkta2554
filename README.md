@@ -1,7 +1,6 @@
 <h1 align="center">✨ Hey, I'm Prajakta Pawar ✨</h1>
 <h3 align="center">Full Stack Developer | MERN | PHP | Problem Solver</h3>
 
-Here are some ideas to get you started:
 
 ## 🌸 About Me  
 🔹 MERN Stack Developer  
