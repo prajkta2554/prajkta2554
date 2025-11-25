@@ -1,16 +1,19 @@
-## Hi there 👋
-
-<!--
-**prajkta2554/prajkta2554** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h1 align="center">✨ Hey, I'm Prajakta Pawar ✨</h1>
+<h3 align="center">Full Stack Developer | MERN | PHP | Problem Solver</h3>
 
 Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌸 About Me  
+🔹 MERN Stack Developer  
+🔹 PHP Backend Developer  
+🔹 I enjoy turning ideas into real working apps  
+🔹 Passionate about UI, APIs, and databases 
+
+## 🛠 Skills  
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=html,css,js,react,nextjs,nodejs,express,mongodb,php,mysql,git,github" />
+</p>
+
+## 🌐 Let's Connect  
+- LinkedIn — https://www.linkedin.com/in/pawarpraju/  
+- Email — pawarprajkta557@gmail.com 
